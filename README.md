@@ -2,8 +2,6 @@
 
 A graphical BMI calculator using Python Tkinter with category classification.
 
-![Screenshot](screenshot.png) <!-- Add screenshot later -->
-
 ## Features
 - Input validation
 - Color-coded health categories
